@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<resources>
+    <dimen name="right_ui_width">250dp</dimen>
+    <dimen name="center_ui_margin_righ">280dp</dimen>
+    <dimen name="center_ui_margin_left">230dp</dimen>
+    <dimen name="bottom_ui_heigth">50dp</dimen>
+</resources>
